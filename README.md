@@ -1,5 +1,4 @@
 # HTML-CSS2018
-HTML5 & CSS3 2018. 
 
 --CONTEXTO--
 Ejercicios escolares de HTML y CSS (Al menos lo que encontré en mi HDD) que datan del 2018.
