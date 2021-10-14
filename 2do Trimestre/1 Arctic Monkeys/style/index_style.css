@@ -1,0 +1,157 @@
+/*titulo*/
+
+div#titulo{
+	width:100%;
+	margin-top:100px;
+}
+
+p#header{
+	text-align: center;
+	font-size: 2.5em;
+	color:black;
+}
+
+p#subheader{
+	text-align: center;
+	color:#white;
+	margin-top:20px;
+	font-size: 1.5em;
+}
+
+header{
+	margin:100px auto;
+	width:1200px;
+	height:230px;
+	background-color: white;
+}
+
+div.contenedor{
+	width: 200px;
+	height: 230px;
+	float:left;
+}
+
+div#uno{
+	background-color: rgb(39,39,39);
+}
+
+div#dos{
+	background-color: rgb(179,160,0);
+}
+
+div#tres{
+	background-color: rgb(84,11,67);
+}
+
+div#cuatro{
+	background-color: rgb(245,202,120);
+}
+
+div#cinco{
+	background-color: rgb(20,24,25);
+}
+
+div#seis{
+	background-color: rgb(197,137,14);
+}
+
+img.icon{
+	display: block;
+	margin:50px auto;
+	background-color: rgba(255,255,255,.15);
+	width:40px;
+	padding:20px;
+
+}
+
+p.texto{
+	font-size: 1.2em;
+	color:white;
+	text-align: center;
+	padding-top:10px;
+	opacity: .6;
+}
+
+div.contenedor:hover{
+	height:250px;
+}
+
+div.contenedor:hover p.texto{
+	padding-top: 30px;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

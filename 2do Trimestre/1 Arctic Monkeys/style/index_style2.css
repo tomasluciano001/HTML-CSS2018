@@ -1,0 +1,43 @@
+#contenedor {
+width: 50%;
+margin: 50px auto;
+border: solid 1px #000;
+font: 1em arial, helvetica, sans-serif;
+color: white;
+}
+#nada, #borde, #todos {
+background-color: #000;
+border: solid #000;
+width: 220px;
+}
+
+#margen, #relleno {
+background-color: ##360;
+border: solid #08f;
+width: 1200px;
+}
+#nada {
+margin: 0;
+padding: 0;
+border-width: 0;
+}
+#borde      {
+margin: 0;
+padding: 0;
+border-width: 20px;
+}
+#relleno    {
+margin: 0;
+padding: 0px;
+border-width: 0;
+}
+#margen     {
+margin: 0px;
+padding: 0;
+border-width: 0;
+}
+#todos      {
+margin: 20px;
+padding: 0px;
+border-width: 0px;
+}
